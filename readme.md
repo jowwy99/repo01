@@ -1,3 +1,16 @@
+Tabla de contenido  
+- [EJERCICIO 1](#ejercicio-1)
+  - [1.1-2 Crea un directorio y tranformalo en un directorio local](#11-2-crea-un-directorio-y-tranformalo-en-un-directorio-local)
+      - [Buscar el **directorio**](#buscar-el-directorio)
+      - [Crear una nueva carpeta](#crear-una-nueva-carpeta)
+      - [Abre el repositorio en VSC](#abre-el-repositorio-en-vsc)
+  - [1.3 Stagin area + commit (repositorio local)](#13-stagin-area--commit-repositorio-local)
+      - [Añade el archivo a Staging area por medio del comando **"git add ."**](#añade-el-archivo-a-staging-area-por-medio-del-comando-git-add-)
+      - [Crea un commit de las modificaciones de tu archivo en nuestro repositorio local por medio del comando **"git commit -m"**.](#crea-un-commit-de-las-modificaciones-de-tu-archivo-en-nuestro-repositorio-local-por-medio-del-comando-git-commit--m)
+  - [1.4-8 Haz un git push, un git remote -v y crea una reposición remota](#14-8-haz-un-git-push-un-git-remote--v-y-crea-una-reposición-remota)
+  - [1.9 Git hub](#19-git-hub)
+
+
 # EJERCICIO 1 
 ## 1.1-2 Crea un directorio y tranformalo en un directorio local
 
@@ -29,14 +42,12 @@ Una vez abierto el repositorio en VSC creamos un fichero llamado readme.md en ex
 ![❌ERROR❌](./img/img8.png "$ repo01")  
 ![❌ERROR❌](./img/img9.png "$ repo01")  
 
-En un primer momento al realizar los comandos **git push** y **remote -v** el programa no los reconoce y no traslada el commit, ya que no se le ha indicado cual es el destino. Primero de todo tienes que crear una reposición remota en git hub y asociar el  repositorio remoto con el local por medio de los comandos que muestran las imagenes.  
+En un primer momento al realizar los comandos **git push** y **remote -v** el programa no los reconoce y no traslada el commit, ya que no se le ha indicado cual es el destino. Primero de todo tienes que crear una reposición remota en git hub y asociar el  repositorio remoto con el local por medio de los comandos que muestran las imagenes. 
 ***  
-### 1.9 Git Hub 
+## 1.9 Git hub
 ![❌ERROR❌](./img/img11.png "$ repo01")  
 Una vez asociados los repositorios vas a poder visualizar y editar los commits "pusheados".  
   
 **HAZ CLICK EN LA SIGUIENTE IMAGEN PARA ACCEDER AL REPOSITORIO REMOTO**  
 
   [![a](./img/img12.png)](https://github.com/jowwy99/repo01)
-  
-
